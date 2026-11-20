@@ -7,7 +7,7 @@
 - 🏆 Recently built **[Sihi ಸಿಹಿ](https://github.com/DishaSrinivasa/Sihi)** — a cultural archive app preserving Kannada family stories for AKKA Hakkathon 2026
 - 👯 I'm looking to collaborate on **projects that mix AI with real-world impact**
 - 💬 Ask me about **RAG pipelines, building with Ollama, or LLM tooling**
-- 📫 How to reach me: **dishasreddy98@gmail.com**
+- 📫 How to reach me: **disha.srinivasa9@gmail.com**
 - ⚡ Fun fact: **I built a Kannada cultural archive so my family's stories and recipes don't get lost between generations**
 
 ---
